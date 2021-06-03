@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the office for transferring &amp; discounting land-bills.</title>
+            <author>Land Bank (London, England).</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16611</idno><idno type="EEBO-CITATION">99893587_189490</idno>
+  <idno type="VID">189490</idno>
+  <idno type="EEBO-PROQUEST">2264175106</idno>
+  
+            <idno type="STC">Wing A335aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[30]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[62a]</idno>
+            <idno type="PROQUEST">ocm99893587</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893587e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189490)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[14]; C16:2[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the office for transferring &amp; discounting land-bills.</title>
+                  <author>Land Bank (London, England).</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1696 and 1701].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated 1696 by Wing, 1701? by ESTC.</note>
+                  <note>Imperfect: print show-through; copy at C4:3 damaged at foot with loss of text.</note>
+                  <note>Reproduction of originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Credit --  England --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:189490:1"/>
+            <head>An ACCOUNT of the OFFICE for Transferring &amp; Discounting <hi>Land-Bills.</hi>
+            </head>
+            <p>EXperience hath long since shown, That the use of Bills, or Notes of Credit, is absolutely necessary in great Commerce and Traffick; because it makes Payments of Mony easie, quick, and certain, by pre<g ref="char:EOLhyphen"/>venting the trouble and loss of Time in telling it over, and damage from Light and Counterfei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Mony.</p>
+            <p>And because great Losses have happen'd here in <hi>England,</hi> from the Insolvency of several Persons that have given out Bills or Notes of Credit; therefore great <hi>Thoughts</hi> and <hi>Industry</hi> has of late Years been imploy'd, both by the Publick and Private Persons, in setling Funds of Credit to prevent Losses; All which Attempts have hitherto prov'd unsuccessful.</p>
+            <p>And yet, upon due Consideration it plainly appears, that both Publick Funds and Private Mens Estates, <hi>without an Act of Parliament,</hi> are very capable of being so Setled, as to make a certain Fund for Bills of Credit to pass in Payment as well as Ready-Mony. And therefore, the reason that such Attempts have not as yet prov'd success<g ref="char:EOLhyphen"/>ful, must be solely from the want of Knowledge and Skill in the Managing such Funds of Credit; by reason, per<g ref="char:EOLhyphen"/>haps, that some Persons who had great share in the contriving of the Settlements of such Funds, had no part in the Management of them.</p>
+            <p>Upon these Considerations, and especially from that of the more than ordinary Occasion for Bills of Credit at this time, since the Quantity of the Mony is greatly lessen'd by the new-coinage of it. And, to the intent that so Useful a Design to the Publick, and of so great an Advantage to the Nobility and Gentry; As the making the Lands of <hi>England</hi> a Fund for Bills of Credit, might not be lost, from the Discouragement some Attempts of this nature have met with, for want of Success; this <hi>Office for Transferring and Discounting Land-Bills</hi> was formed, and setled upon the Terms and Conditions herein express'd.</p>
+            <p n="1">I. That the Masters and Managers of the Office (to be chosen as is herein express'd) will provide proper Persons to accept the <hi>Trust,</hi> and to take the <hi>Conveyances</hi> of all <hi>Mannors, Lands, Rents, Tenements,</hi> and <hi>Heredita<g ref="char:EOLhyphen"/>ments,</hi> which the Owners thereof shall desire to convey, pursuant to the Settlement of the <hi>Office for Trans<g ref="char:EOLhyphen"/>ferring and Discounting Land-Bills,</hi> which is to this effect: That the Owners of the Lands may draw Bills of Credit on their Estates, as far as Three Fourths of the Value; and that such Conveyances shall be made in Trust, in the first place, for payment of those Persons to whom such Bills are assign'd, and afterwards in Trust for the Owners of the Lands. The Conveyances are to be enter'd in the Books of the Office. The Fee for Convey<g ref="char:EOLhyphen"/>ing and Settling in the Office, is Twenty Shillings <hi>per Cent.</hi> of the Value of the Estate, and Five Shillings <hi>per Cent.</hi> for entering the <hi>Conveyance</hi> in the Books of the Office, and Twelve-pence <hi>per</hi> Bill.</p>
+            <p n="2">II. That the <hi>Value</hi> of all <hi>Estates</hi> may be the better known, upon which <hi>Bills</hi> are to be drawn not exceeding the <hi>Value</hi> of <hi>Three Fourths,</hi> the Rates are as followeth, <hi>viz. Ground-Rents in Fee,</hi> Two and twenty Years Purchase. <hi>Lands in Fee,</hi> Twenty Years Purchase. <hi>Houses in Fee,</hi> insur'd, Seventeen Years Purchase. <hi>Leasehold Estates,</hi> ac<g ref="char:EOLhyphen"/>cording to the length of the Term. <hi>Ground-Rents</hi> of Sixty Years, with a Reversion of the Improvement, Eighteen Years Purchase. And so in proportion for shorter Terms. <hi>Improv'd Rents,</hi> a term of Sixty Years and upwards, well Tenanted, Fourteen Years Purchase. Fifty and upwards, Thirteen. Forty and upwards, Twelve. Thirty and upwards, Eleven. Twenty and upwards, Ten; with the Allowance of a Years Purchase more or less, according to the <hi>Country, Place, Certainty of the Rent,</hi> and other circumstances.</p>
+            <p n="3">III. That if any <hi>Difference</hi> should arise betwixt the <hi>Master</hi> and <hi>Managers</hi> of the <hi>Office,</hi> and the <hi>Owners</hi> of the <hi>Lands,</hi> about the <hi>Title</hi> or <hi>Value</hi> of any Estate, 'tis to be determin'd by a Council of <hi>Seven,</hi> to be Yearly chosen by the Owners of the Lands.</p>
+            <p n="4">IV. That after any Estate has been Enter'd in the Office <hi>Six Months,</hi> and the <hi>Bills</hi> in the interim have been once Assign'd, that the <hi>Value</hi> of such Bills may be the better known and approv'd of; The Bills drawn on such Estates, upon giving a Months Notice to the Office, and paying after the rate of Twenty Shillings <hi>per Cent.</hi> shall be Dis<g ref="char:EOLhyphen"/>counted and Paid in Ready-Mony, by the Office, without any other Deduction than a <hi>Month's Interest,</hi> payable on such Bills; so that such <hi>Interest</hi> be not less than Two-pence <hi>per diem.</hi>
+            </p>
+            <p n="5">V. That the Interest of the <hi>Bills</hi> is to be paid by the Office every <hi>Six Months,</hi> according to the Date of the Bill: And therefore every Person, upon <hi>Conveying</hi> and <hi>Entering</hi> his Estate in the <hi>Office,</hi> is to deposite a <hi>Years In<g ref="char:EOLhyphen"/>terest;</hi> and also to pay to the <hi>Office</hi> the <hi>Interest</hi> every Half-year, <hi>Ten Days</hi> before it is due.</p>
+            <p n="6">VI. That all <hi>Bills</hi> are made Assignable and Transferrable only in the Books of the Office, wherein the Habita<g ref="char:EOLhyphen"/>tions of the Persons to whom the Bills are Assign'd are mention'd; There being no other way to prevent Counter<g ref="char:EOLhyphen"/>feiting of the Bills; Or to know where to send for the Bills when any Person desires to call for them in, and dis<g ref="char:EOLhyphen"/>charge his Estate; which the <hi>Office</hi> undertakes to procure upon a Months Notice, and to deliver to the Parties that have such Bills, <hi>Mony</hi> or <hi>Bills</hi> of the same Value, at the Election of the Parties. And after Notice left at their Abode, the <hi>Interest</hi> of the said Bills ceases, till they bring them to the Office. The Fee for Assigning of a Bill is <hi>One Shilling.</hi>
+            </p>
+            <p n="7">VII. That the Bills drawn on Estates in Houses, may be of the same Value as Bills drawn on Land; the Houses, before they are Convey'd and Enter'd in the Office, are to be Insur'd from Fire: And to that intent there is an Office for <hi>Insuring Houses from Fire,</hi> wherein several Hundreds of Houses are Insur'd, annex'd to the <hi>Office for Transferring and Discounting Land-Bills.</hi>
+            </p>
+            <p n="8">VIII. And that all Bills, after they have been Discounted by the Office, may be of a more certain Value, there is Ten <hi>per Cent.</hi> of the Stock of the Office, and One <hi>per Cent.</hi> of the Value of all Estates, Convey'd, (which is to be deposited at the time of Conveying and Entring the said Estates) Appropriated, and made a <hi>Fund</hi> or <hi>Security</hi> to make good all Losses, if any should happen, to such Bills. And to distinguish them from other Bills, a Stamp of the Office is to be set upon them, after they are Discounted.</p>
+            <p>And because the Care of Safely Lodging and Disposing of Mony is not much less troublesome to some Persons, than the Care of Wanting to others; those that lodge their Mony in the Office, shall have Bills Discounted by the Office Assign'd them, and their Mony repaid upon a Months Notice, without paying for their Discounting. And if they Assign those Bills to a third Person, they are to be allow'd Ten Shillings <hi>per Cent.</hi> by the Office.</p>
+            <p n="9">IX. That there may never be wanting in the Office a Sufficient Sum of Mony to Discount the Bills, and to Reimburse the Stock of the Office; the Masters and Managers of the Office are to call for in equally, <hi>Ten</hi> or more <hi>per Cent,</hi> of the Value of all the Bills drawn on Estates Convey'd and Enter'd in the Office; for which Mony Bills are to be Assign'd; and after Six Months, upon a Months Notice, those Bills are to be again Discounted by
+<pb facs="tcp:189490:2"/> the Office. And those Persons as shall refuse or neglect to pay such Proportions of their Debt as shall from time to time be call'd for, or neglect to pay their Interest, when due, the Masters and Managers are to call for the whole Sum due on such Estates: And after Six Months demand, and not paid, the Trustees are to sell the Estates, by the publick Sale of the Office.</p>
+            <p n="10">X. That it may be the Interest of the Owners of the Lands to assist and promote the Circulation of their Bills, by making their Payments by Bills of the Office; the Owners of the Lands are to be Sharers with the Office, in the Profit of the Discount; that is, for every Hundred Pounds that the Owners of the Lands pay into the Office, they are to have Bills Assign'd them: And upon Reassigning the said Bills to a third Person, they are to be al<g ref="char:EOLhyphen"/>low'd Ten Shillings <hi>per Cent.</hi> by the Office.</p>
+            <p n="11">XI. That the Owners of the Lands, having a joint Interest with those that are Sharers in the Office, to sup<g ref="char:EOLhyphen"/>port the Credit of the Land-Bills, have Power, by the Settlement, to hold General Courts, and make such <hi>Rules</hi> and <hi>Orders</hi> for the Advancing the Credit of their Bills, and promoting the Circulation of them, as they shall from time to time think necessary. And also chuse Annually among their number Seven Persons, who are the Council of Appeals, and are to determine all Differences betwixt the Owners of the Land, and the Master and Managers of the Office, about the Title or Value of any <hi>Estates</hi> Convey'd and Enter'd in the Office.</p>
+            <p n="12">XII. That the <hi>Stock</hi> of the Office is divided into Five hundred and Twenty Shares, each Share being <hi>Fifty Pounds,</hi> with a Power, by the Settlement, for the Owners of the <hi>Stock</hi> to enlarge it when they find Occasion. The <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>overn<g ref="char:EOLhyphen"/>ment of the St<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck</hi> is by a Master and Ten Managers to be chosen Yearly. But for the better establishing of the Office, the Master is appointed by the Settlement, for the first two Years: And every Person that has <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>es</hi> is to be one of the Managers for that time. And because there is no present Occasion for Mony, Bills being not to be Discounted by the Office till after Six Months; therefore there is only <hi>Five Pounds</hi> for each Share to be paid to the <hi>Cashire,</hi> at the Admission into the Office; And the rest is to be paid when the Masters and Managers shall call for it.</p>
+            <p n="13">XIII. That there is a publick Sale to be appointed, once a Year, or oftener, by the Master and Managers of the Office, for the Selling of <hi>Lands</hi> and <hi>Houses;</hi> which will be found to be of great Advantage to the <hi>Owners of Lands,</hi> who are often forc'd to Sell their <hi>Estates</hi> at <hi>Ʋndervalue,</hi> for want of Customers; And of as great Benefit to the Purchaser, who is too often impos'd on in the <hi>Value</hi> of the <hi>Estate.</hi> Whereas the <hi>Value</hi> of <hi>Lands</hi> Enter'd in the Office will be well known. The <hi>Fee</hi> for Selling <hi>Estates</hi> is Ten Shillings <hi>per Cent.</hi> of the Value the <hi>Estate</hi> is Sold for. And all <hi>Estates</hi> Convey'd and Enter'd in the Office are to pay Ten Shillings <hi>per Cent.</hi> whenever they are Clea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d and Discharg'd of the Office.</p>
+            <p>These are the Chief Conditions of the <hi>Settlement</hi> of the <hi>Office for Transferring and Discounting Land-Bills.</hi>
+            </p>
+            <p>The <hi>Advantage</hi> to the <hi>Publick</hi> by this Office is; That by this <hi>Settlement</hi> the Lands of <hi>England</hi> are made a Fund for Bills of Credit; which makes such Bills undeniably certain, and will prevent Losses: For the Person that draws the Bill, the <hi>Estate,</hi> the <hi>Credit of the Office,</hi> and the <hi>Fund of Insurance,</hi> are all engaged for the Payment of the Mo<g ref="char:EOLhyphen"/>nies due on the Bills. And had this Design been sooner thought of, it might have prevented the Loss of near <hi>Three Millions of Mony,</hi> which have been lost within these Thirty odd Years, being within the time since Goldsmiths Notes have had a <hi>Credit.</hi>
+            </p>
+            <p>The <hi>Advantages</hi> to the Owners of the Lands are very great: They may have Mony on their <hi>Estates,</hi> after the first Charge of Entring them in the Office, as far as Three Fourths of the Value at Three <hi>per Cent.</hi> And if they make all their Payments by <hi>Bills</hi> in the Office, they may save that Interest. Besides, they may pay off and dis<g ref="char:EOLhyphen"/>charge any part of their Debt, at any time, without Notice: Which <hi>Single Conveniency</hi> will preserve many a Fa<g ref="char:EOLhyphen"/>mily from Ruin; for, by those Wholesale Mortgages, the Mony being all to be paid together, and being too great a Sum to be easily borrow'd, the Owners of the Lands are too often foreclosed of the Equity of Redemption, and lose One Fourth Part of the Value of their <hi>Estates.</hi>
+            </p>
+            <p>But by this <hi>Settlement</hi> of the <hi>Office</hi> the <hi>Lands</hi> there Convey'd and Enter'd are as good as Ready-Mony; for tho' no <hi>Bills</hi> are to be Discounted by the Office till after Six Months; That does not lessen the Value of the Bills, be<g ref="char:EOLhyphen"/>cause they may be Assigned in the Interim, and will be accepted and taken, if they are of Value, according to the Settlement: And if they are not of such Value, they ought not to be Discounted by the Office. And as to the Charge of One <hi>per Cent.</hi> for Discounting them, that cannot prejudice the Value of the Bills; for the Interest of the Bills may, for the most part, pay it: But if not, the Bills cannot be reckon'd worse than so many Guineas; for they change their Value <hi>Two-pence</hi> or <hi>Three-pence</hi> a Guinea once or twice a Year, in the most setled times of Payment, and yet no man refuseth them; because there may be a Loss of One <hi>per Cent.</hi> by taking them; nor are the Bills the worse because they are not to be Discounted without a Months Notice, because, in all Dealings, Pay<g ref="char:EOLhyphen"/>ments within a Month are reckon'd as Ready-Mony.</p>
+            <p>It is not design'd by this Office, to make these <hi>Land-Bills</hi> better than <hi>Ready-Mony;</hi> for if it were possible to manage Funds of Credit, which are not Mony, by Bills with Interest, all <hi>Payable on Demand,</hi> and to make the Payments in Mony certain, such Bills were better than Ready-Mony; because of the Interest of the Bills, which Ready Mony does not produce. But, how can those Payments be made certain, when it is uncertain what will be demanded? Unless the whole Mony owing lay in a Chest, or the Directors or Managers had <hi>Midas</hi>'s Power, that whatever they touch'd, they could turn into Gold.</p>
+            <p>But such a Power the Masters and Managers of this Office do not expect, and therefore have placed the Belief of the punctual Payments of their Bills upon this Probability: That having always a Month's Notice of what they are to Pay, they may the better provide to comply with their Payments, especially when it is in their Power to call for <hi>Ten</hi> or more <hi>per Cent.</hi> of their <hi>Bills,</hi> whenever the Office wants <hi>Mony;</hi> And when it is the joint Inte<g ref="char:EOLhyphen"/>rest of the Owners of Lands, as well as of the Office, to support the Credit of their Bills; And so easie for the Owners of the Lands to comply with the Occasions of the Office; because, if they have not Mony, having Bills, which are real Security, Assign'd them, they may easily borrow it; and much easier borrow Part, than the Whole▪ which in all other Mortgages they are forc'd to do whenever the Mony is call'd for; and especially since those Bills are again to be Repaid and Discounted by the Office, after Six Months, upon a Months Notice. For these Reasons it is very probable the Office can never want Mony to Discount their Bills.</p>
+            <p>And since by this Account of the Office the Directors and Managers of other Funds may seem to be reflect<g ref="char:EOLhyphen"/>ed on, by saying, <hi>That the want of Success was for want of Skill in Management;</hi> if any Displeasure should from thence arise, to cause some Retaliation: It is hoped that it is out of the Power of Anger or Revenge to lessen the Va<g ref="char:EOLhyphen"/>lue of these <hi>Land-Bills.</hi> And as to the Punctual Payment of them, the Master and Managers will be content to fall under the Severest Censure, whenever any Person comes twice to the Office for his <hi>Mony,</hi> after once his <hi>Bills</hi> are due.</p>
+         </div>
+      </body>
+      <back>
+         <div type="part">
+            <p>☞ The Office for Transferring and Discounting Land-Bills, <hi>is kept by the Hercules-Pillars in Fleetstreet, near Temple-bar.</hi> Together with the Office for Insuring Houses from Fire.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
